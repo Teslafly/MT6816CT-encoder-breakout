@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MAG ENCODERS")(type "KiCad")(uri "${KIPRJMOD}/libraries/IC_Infineon_TLE5012/Mag Encoders.kicad_sym")(options "")(descr ""))
+)

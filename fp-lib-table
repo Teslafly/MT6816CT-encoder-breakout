@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/libraries/IC_Infineon_TLE5012/eec.pretty")(options "")(descr ""))
+  (lib (name "pkl_dipol")(type "KiCad")(uri "C:/Users/mscholz/Google Drive/hardware design/kicad_libs/pkl-kicad-libs/pkl_dipol.pretty")(options "")(descr ""))
+)
